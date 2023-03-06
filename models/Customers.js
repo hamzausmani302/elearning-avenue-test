@@ -1,0 +1,1 @@
+const Customer = new Schema({ any: {} });
